@@ -32,3 +32,6 @@ Extra extra large xxl: >1400px (фиксированная верстка).
 4. При выполнении задания желательно использовать технологии: Bootrstrap (v4, v5), Gulp/Grunt/Webpack/npm, Less/SASS, Git, Jade/Pug.
 
 5. Задание должно открываться в браузере с локальной машины без запуска каких-либо сборщиков.
+
+ИТОГ
+https://astef-fe.github.io/engineering-company/
