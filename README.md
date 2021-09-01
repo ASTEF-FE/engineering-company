@@ -36,4 +36,3 @@ Extra extra large xxl: >1400px (фиксированная верстка).
 ИТОГ
 https://astef-fe.github.io/engineering-company/
 
-Затраченное время 7 часов.
